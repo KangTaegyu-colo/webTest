@@ -17,7 +17,7 @@ public class SignController {
 
     @GetMapping("test")
     public void test(){
-
+        log.info("변경");
         //Pull request 테스트 입니다.
 
     }
