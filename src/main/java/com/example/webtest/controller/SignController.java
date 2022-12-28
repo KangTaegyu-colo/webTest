@@ -17,7 +17,7 @@ public class SignController {
 
     @GetMapping("test")
     public void test(){
-
+        //test
         //Pull request 테스트 입니다.
 
     }
