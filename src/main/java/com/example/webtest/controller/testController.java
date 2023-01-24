@@ -36,6 +36,7 @@ public class testController {
     @GetMapping("/test1")
     public void test1(HttpServletResponse response) throws IOException {
         this.b2bOutGoodsCheck(response);
+        String test = "";
     }
 
     public static void b2bOutGoodsCheck(HttpServletResponse response) throws IOException {
