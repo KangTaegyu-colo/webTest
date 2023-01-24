@@ -44,6 +44,8 @@ public class testController {
 
         String prTest = "";
 
+        prTest = "test";
+
         Cell cell = null;
         Row row0 = null;
         Row row1 = null;
