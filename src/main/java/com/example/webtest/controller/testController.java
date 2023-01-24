@@ -43,6 +43,9 @@ public class testController {
         // 워크북 생성
         SXSSFWorkbook workbook = new SXSSFWorkbook();
 
+        String prTest = "";
+
+        prTest = "test";
 
         Cell cell = null;
         Row row0 = null;
